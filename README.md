@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Jeremy Foxx
 
 Welcome to my GitHub! I'm a **Product Leader**, **AI/ML Engineer**, **Data Strategist**, and **Creative Technologist** who blends strategy, engineering, and faith to build tools that help people—and glorify God.
+> “Whatsoever you do, do it from the heart, as to the Lord, and not to men:”
+— Colossians 3:23, Douay-Rheims
 
 ---
 
@@ -136,8 +138,3 @@ Whether it’s helping someone eat better on a budget, creating spiritual tools 
 - ✝️ [veilandkeys.com](https://veilandkeys.com)  
 - 🧪 [mcpnexus.ai](https://www.mcpnexus.ai)  
 - 📬 Email: [jeremy@foxxception.com](jeremy@foxxception.com)
-
----
-
-> “Whatsoever you do, do it from the heart, as to the Lord, and not to men:”
-— Colossians 3:23, Douay-Rheims
