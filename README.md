@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jeremy Foxx — Builder | Thinker | Christ-Follower
+# 👋 Hi, I'm Jeremy Foxx
 
 Welcome to my GitHub! I'm a **Product Leader**, **AI/ML Engineer**, **Data Strategist**, and **Creative Technologist** who blends strategy, engineering, and faith to build tools that help people—and glorify God.
 
